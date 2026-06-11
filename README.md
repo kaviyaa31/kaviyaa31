@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Kaviya Sree 👋
 
-<!--
-**kaviyaa31/kaviyaa31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Electronics and Communication Engineering Student
 
-Here are some ideas to get you started:
+📚 Preparing for GATE ECE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interested in:
+- IoT
+- Embedded Systems
+- Artificial Intelligence
+- Wireless Communication
+
+## Skills
+- C Programming
+- Python
+- Arduino
+- ESP32
+- MATLAB
+
+## Projects
+- Smart Water Usage Monitoring System
+- IoT Health Monitoring for Elderly
+- Voice Activated Appliance Control
+- Image Sharpening using Python
+
+## Goals
+- Build real-world IoT projects
+- Improve programming skills
+- Crack GATE ECE
